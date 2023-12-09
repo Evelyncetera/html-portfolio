@@ -1,2 +1,2 @@
-# html-porfolio
-html porfolio from web develpment course
+# html-portfolio
+html portfolio from web develpment course
